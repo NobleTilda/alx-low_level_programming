@@ -2,7 +2,8 @@
 #include <time.h>
 /* more headers goes there */
 #include <stdlib.h>
-/** betty style doc for functions main goes there
+/* betty style doc for functions main goes there */
+/**
  * main - main function
  *
  * Return: always 0
